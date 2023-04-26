@@ -7,4 +7,4 @@ function mult_list() = print(numpy.prod(list))
 
 function rev_string() = print(list ::-1)
 
-functon num_within() = print(random.randint(list))
+function num_within() = print(random.randint(list))
